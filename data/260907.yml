@@ -5,7 +5,7 @@ about:
   head: 26f76d8
   archived: false
   latestVersion: "v6.2.11"
-  collectedAt: 2026-09-07T05:24:32Z
+  collectedAt: 2026-09-07T19:02:11Z
 timeline:
   created: 2017-08-13
   lastCommit: 2023-03-15
@@ -84,7 +84,7 @@ total:
   commit: 539
 ---
 path: /home/runner/.x-repo/github.com/jondot/hygen
-collectedAt: 2026-09-07T05:24:33Z
+collectedAt: 2026-09-07T19:02:14Z
 loc:
   JavaScript:
     code: 2932
@@ -229,7 +229,7 @@ checks:
       - 'Warn: 0 commits out of 14 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:34+00:00
+  collectedAt: 2026-09-07T19:02:17+00:00
   platform:
     darwin/arm64:
       name:  hygen.macos.v6.2.11.tar.gz
