@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.2.11"
   latestRelease: "v6.2.11"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:38:13Z
+  collectedAt: 2026-09-09T19:53:36Z
 timeline:
   created: 2017-08-13
   lastCommit: 2023-03-15
@@ -88,7 +88,7 @@ total:
   commit: 539
 ---
 path: /home/runner/.x-repo/github.com/jondot/hygen
-collectedAt: 2026-09-09T05:38:15Z
+collectedAt: 2026-09-09T19:53:38Z
 loc:
   JavaScript:
     code: 2932
