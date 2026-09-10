@@ -1,0 +1,9 @@
+- repo: scoop
+  subrepo: main
+  binname: hygen
+  visiblename: hygen
+  version: 6.2.11
+  origversion: null
+  status: unique
+  licenses:
+    - MIT
