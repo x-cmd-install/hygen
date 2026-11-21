@@ -24,6 +24,16 @@ Total: **6,266** lines of code across **150** files in the top 5 languages.
 | Svg | 478 | 5 | 0 | 11 |
 | Json | 145 | 0 | 0 | 3 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.8 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (3/10) — Found 9/25 approved changesets -- score normalized to 3
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/jondot/hygen>
@@ -42,18 +52,18 @@ Total: **6,266** lines of code across **150** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 76 · **Open PRs**: 15 · **Closed issues**: 193 · **Open issues**: 87 · **Commits**: 539
+- **Releases**: 62 · **Merged PRs**: 76 · **Open PRs**: 14 · **Closed issues**: 193 · **Open issues**: 87 · **Commits**: 539
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-30 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-01 | 0 | 0 | 1 | 0 | 3 | 0 |
 
 ## Release assets
 
@@ -72,4 +82,4 @@ Install metadata for hygen lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:44:39Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:23:13Z._
